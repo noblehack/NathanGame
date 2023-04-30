@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 85500c42db8fd2e40a1f788f40063831
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hollowCube: {fileID: 919132149155446097, guid: 12761d757294b684a827178ad9fe8e0d, type: 3}
+  - fullCube: {fileID: 919132149155446097, guid: 89ed4625d7aaa2c47886c348ea608495, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
